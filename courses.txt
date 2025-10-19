@@ -1,5 +1,0 @@
-COSC045, C, Java, 12
-COSC123, E, Data, 6, Sem2
-ISYS089, C, Computing, 24
-ISYS273, C, System, 12
-MATH346, E, Analytics, 6, Sem1
