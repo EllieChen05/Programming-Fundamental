@@ -1,0 +1,37 @@
+
+COURSE INFORMATION
+--------------------------------------------------------------------------------
+CourseID  Name                Type  Credit  Semester  Average  Nfinish  Nongoing
+--------------------------------------------------------------------------------
+COSC045    Java                 C     12       All     74.53        3        1
+ISYS089    Computing            C     24       All     66.92        4        0
+ISYS273    System               C     12       All     79.13        3        0
+
+--------------------------------------------------------------------------------
+CourseID  Name                Type  Credit  Semester  Average  Nfinish  Nongoing
+--------------------------------------------------------------------------------
+COSC123    Data                 E     6        Sem2    70.60        4        1
+MATH346    Analytics            E     6        Sem1    66.75        2        1
+
+COURSE SUMMARY
+
+The most difficult core course is Computing with an average score of 66.92.
+The most difficult elective course is Analytics with an average score of 66.75.
+
+STUDENT INFORMATION
+--------------------------------------------------------------------------------
+StudentID  Name                Type  Mode    GPA(100)  GPA(4)  Nfinish  Nongoing
+--------------------------------------------------------------------------------
+S001       Jack (!)             PG    FT      57.10      1.33     3        0       
+S012       Sarah                PG    PT      76.50      3.00     1        1       
+S034       Liam                 PG    FT      83.07      3.67     3        1       
+S349       Alex                 PG    PT      72.40      3.00     1        1       
+--------------------------------------------------------------------------------
+StudentID  Name                Type  Mode    GPA(100)  GPA(4)  Nfinish  Nongoing
+--------------------------------------------------------------------------------
+S120       Charlie              UG    FT      52.38      0.75     4        0       
+S236       Sophia               UG    FT      91.42      4.00     4        0       
+
+STUDENT SUMMARY
+The best PG student is S034 with a GPA score of 3.67.
+The best UG student is S236 with a GPA score of 4.00.
