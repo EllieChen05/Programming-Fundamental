@@ -1,0 +1,6 @@
+S001, Jack, PG, FT
+S012, Sarah, PG, PT
+S034, Liam, PG, FT
+S120, Charlie, UG
+S236, Sophia, UG
+S349, Alex, PG, PT
